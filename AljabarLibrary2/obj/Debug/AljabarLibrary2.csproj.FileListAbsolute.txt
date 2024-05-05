@@ -1,0 +1,6 @@
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\bin\Debug\AljabarLibrary2.dll
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\bin\Debug\AljabarLibrary2.pdb
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\obj\Debug\AljabarLibrary2.csproj.AssemblyReference.cache
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\obj\Debug\AljabarLibrary2.csproj.CoreCompileInputs.cache
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\obj\Debug\AljabarLibrary2.dll
+C:\Programing\C#\tpmod10_1302220093\AljabarLibrary2\obj\Debug\AljabarLibrary2.pdb
